@@ -1,0 +1,9 @@
+1.ui design like qoude
+2.validation y
+3.search menue y
+4.collapse 
+5.end the disount
+6.priviledges
+7- default values for   calculate value and date  Y
+the date today and the end date after week
+8-status is in the button y
